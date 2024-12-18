@@ -26,4 +26,4 @@ This repository showcases various data analysis and visualization projects using
 - **Basic Excel Skills**: Familiarity with Excel functions, pivot tables, and chart creation is recommended.
 
 ## Contact :
-soheil.niki1303gmail.com
+mistrydipali70@gmail.com
